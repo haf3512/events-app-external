@@ -12,4 +12,5 @@ RUN npm install
 
 # Start the Express app
 CMD ["node", "server.js"]
-docker build -t external:v1.0 .
+
+
